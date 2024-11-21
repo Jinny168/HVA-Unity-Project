@@ -1,4 +1,4 @@
-# HVA: Heuristic-based vehicle arrangement for ro-ro ships -- Unity3D simulation code for  vehicle arrangement# HVA
+# HVA: Heuristic-based vehicle arrangement for ro-ro ships -- Unity3D simulation code for  vehicle arrangement
 ## Introduction
 Unity3D simulation code to guide multiple agents to collaboratively plan their paths in a 3D grid world, as well as to test/visualize the heuristic policy on handcrafted scenarios.
 
